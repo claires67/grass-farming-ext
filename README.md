@@ -1,5 +1,5 @@
 
-## Paste your proxies inside proxy_list.txt and the User ID inside id.txt
+## Paste your proxies inside ```proxy_list.txt``` and the User ID inside ```id.txt```
 # [GET PROXIES FROM HERE](https://proxy-sale.com/?partner_link=7w04Ij8gwl)
 
 # How to Get GRASS User ID
