@@ -77,7 +77,7 @@ pkg install git
 git clone https://github.com/ashtrobe/grass-farming-lite.git
 ```
 ```
-cd grass-farming-lite
+cd grass-farming-ext
 ```
 ## Install Requirements
 ```bash
