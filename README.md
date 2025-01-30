@@ -74,7 +74,7 @@ CARGO_BUILD_TARGET="$(rustc -Vv | grep "host" | awk '{print $2}')" pip install m
 pkg install git
 ```
 ```
-git clone https://github.com/ashtrobe/grass-farming-lite.git
+git clone https://github.com/ashtrobe/grass-farming-ext.git
 ```
 ```
 cd grass-farming-ext
